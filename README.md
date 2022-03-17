@@ -1,16 +1,37 @@
-# desafio_insta_clone
+<img src="https://img.shields.io/badge/Version-1.0.0-green"> <img src="https://img.shields.io/badge/license-MIT-blue"> 
 
-A new Flutter project.
+# Desafio Academia do Flutter - Instagram Clone
 
-## Getting Started
+App feito conforme Desafio feito pelo Rodrigo Rahman na Academia do Flutter
 
-This project is a starting point for a Flutter application.
+## Sobre o App
 
-A few resources to get you started if this is your first Flutter project:
+:iphone: basicamente uma cópia da tela inicial do Instagram
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Em Breve
+
+### No Futuro
+- [ ] Novas Telas
+- [ ] Ícones iguais ao do Instagram.
+
+</br>
+</br>
+
+<p align="center">
+👇 Dúvida, Crítica, Elogio ou Sugestão👇 
+  </p>
+  <p align="center">
+  <a href="https://instagram.com/duhalonsoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/duhalonso" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:duhalonso.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardo-alonso-685509b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+<p align="center">
+ *Estudar é fundamental para um bom futuro, estudar e praticar é a chave do SUCESSO!*
+
+</p>
+
+### LICENSE
+MIT License © [DuhAlonso](https://github.com/DuhAlonso/basic_app_request_api/blob/master/LICENSE.md)
