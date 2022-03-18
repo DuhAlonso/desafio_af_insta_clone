@@ -4,15 +4,37 @@
 
 App feito conforme Desafio feito pelo Rodrigo Rahman na Academia do Flutter
 
-## Sobre o App
+<h2>Índice 📋</h2>
 
-:iphone: basicamente uma cópia da tela inicial do Instagram
+   <p>
 
-## Screenshots
+   - [📖 Sobre o App](#-sobre-o-app)
+   - [👨🏽‍💻 Desenvolvimento](#-sobre-o-desenvolvimento)
+   - [📱 Screenshots](#-screenshots)
+   - [🤔 No Futuro](#-no-futuro)
+   - [📞 Contato](#-%F0%9F%91%87-dúvida,-crítica,-elogio-ou-sugestão-%F0%9F%91%87)
+   - [📝 Licença](#-LICENSE)
 
-Em Breve
+   </p>
 
-### No Futuro
+<h2>Sobre o App</h2>
+
+<p>
+📱 Basicamente uma cópia da tela inicial do Instagram
+</p>
+
+<h2>Sobre o desenvolvimento</h2>
+<p>
+Foi um pouco difícil, como já tenho um pouco de conhecimento sobre os widgets básicos do flutter, foi bem tranquilo. Acabei se enrolando um pouco no listview, obrigado stackoverflow! Mas no final foi bem rápido de fazer e coloquei conceitos que já sabia + os adquiridos na Academia do Flutter.
+</p>
+
+<h2>Screenshots</h2>
+<p>
+<img src="https://github.com/DuhAlonso/desafio_af_insta_clone/blob/main/screenshot/Screen01.png" width="250"> 
+</p>
+
+<h2>No Futuro</h2>
+
 - [ ] Novas Telas
 - [ ] Ícones iguais ao do Instagram.
 
@@ -20,7 +42,7 @@ Em Breve
 </br>
 
 <p align="center">
-👇 Dúvida, Crítica, Elogio ou Sugestão👇 
+<h3 align="center">👇 Dúvida, Crítica, Elogio ou Sugestão👇 </h3> 
   </p>
   <p align="center">
   <a href="https://instagram.com/duhalonsoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -33,5 +55,6 @@ Em Breve
 
 </p>
 
-### LICENSE
+<h2>LICENSE</h2>
+
 MIT License © [DuhAlonso](https://github.com/DuhAlonso/basic_app_request_api/blob/master/LICENSE.md)
