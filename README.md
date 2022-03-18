@@ -9,7 +9,7 @@ App feito conforme Desafio feito pelo Rodrigo Rahman na Academia do Flutter
    <p>
 
    - [📖 Sobre o App](#-sobre-o-app)
-   - [👨🏽‍💻 Desenvolvimento](#-sobre-o-desenvolvimento)
+   - [👨🏽‍💻 Desenvolvimento](#-Sobre-o-desenvolvimento)
    - [📱 Screenshots](#-screenshots)
    - [🤔 No Futuro](#-no-futuro)
    - [📞 Contato](#-%F0%9F%91%87-dúvida,-crítica,-elogio-ou-sugestão-%F0%9F%91%87)
