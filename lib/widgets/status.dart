@@ -18,7 +18,7 @@ class _AvatarStatusState extends State<AvatarStatus> {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.only(right: 13.0),
+      padding: const EdgeInsets.only(right: 15.0),
       child: Column(
         children: [
           Stack(

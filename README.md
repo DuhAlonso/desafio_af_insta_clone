@@ -8,7 +8,7 @@ App feito conforme Desafio feito pelo Rodrigo Rahman na Academia do Flutter
 
    <p>
 
-   - [📖 Sobre o App](https://github.com/DuhAlonso/desafio_af_insta_clone#-sobre-o-app)
+   - [📖 Sobre o App](#Sobre-o-App)
    - [👨🏽‍💻 Desenvolvimento](#-Sobre-o-desenvolvimento)
    - [📱 Screenshots](#-screenshots)
    - [🤔 No Futuro](#-no-futuro)

@@ -30,42 +30,48 @@ class Home extends StatelessWidget {
           ),
           SizedBox(
             height: 100,
-            child: Expanded(
-              child: ListView(
-                scrollDirection: Axis.horizontal,
-                children: [
-                  AvatarStatus(
-                    'Seu Story',
-                    'https://avatars.githubusercontent.com/u/53386801?v=4',
-                    false,
-                    myStories: true,
+            child: Flex(
+              direction: Axis.horizontal,
+              children: [
+                Expanded(
+                  child: ListView(
+                    shrinkWrap: true,
+                    scrollDirection: Axis.horizontal,
+                    children: [
+                      AvatarStatus(
+                        'Seu Story',
+                        'https://avatars.githubusercontent.com/u/53386801?v=4',
+                        false,
+                        myStories: true,
+                      ),
+                      AvatarStatus(
+                          'rodrigorahman',
+                          'https://avatars.githubusercontent.com/u/20157178?v=4',
+                          true),
+                      AvatarStatus(
+                          'diego3g',
+                          'https://avatars.githubusercontent.com/u/2254731?v=4',
+                          false),
+                      AvatarStatus(
+                          'renatomota',
+                          'https://avatars.githubusercontent.com/u/23418948?v=4',
+                          false),
+                      AvatarStatus(
+                          'gabuldev',
+                          'https://avatars.githubusercontent.com/u/32063378?v=4',
+                          false),
+                      AvatarStatus(
+                          'jacobaraujo7',
+                          'https://avatars.githubusercontent.com/u/4047813?v=4',
+                          false),
+                      AvatarStatus(
+                          'davidsdearaujo',
+                          'https://avatars.githubusercontent.com/u/16373553?v=4',
+                          false),
+                    ],
                   ),
-                  AvatarStatus(
-                      'rodrigorahman',
-                      'https://avatars.githubusercontent.com/u/20157178?v=4',
-                      true),
-                  AvatarStatus(
-                      'diego3g',
-                      'https://avatars.githubusercontent.com/u/2254731?v=4',
-                      false),
-                  AvatarStatus(
-                      'renatomota',
-                      'https://avatars.githubusercontent.com/u/23418948?v=4',
-                      false),
-                  AvatarStatus(
-                      'gabuldev',
-                      'https://avatars.githubusercontent.com/u/32063378?v=4',
-                      false),
-                  AvatarStatus(
-                      'jacobaraujo7',
-                      'https://avatars.githubusercontent.com/u/4047813?v=4',
-                      false),
-                  AvatarStatus(
-                      'davidsdearaujo',
-                      'https://avatars.githubusercontent.com/u/16373553?v=4',
-                      false),
-                ],
-              ),
+                ),
+              ],
             ),
           ),
           Expanded(
