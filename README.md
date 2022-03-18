@@ -9,11 +9,11 @@ App feito conforme Desafio feito pelo Rodrigo Rahman na Academia do Flutter
    <p>
 
    - [📖 Sobre o App](#Sobre-o-App)
-   - [👨🏽‍💻 Desenvolvimento](#-Sobre-o-desenvolvimento)
-   - [📱 Screenshots](#-screenshots)
-   - [🤔 No Futuro](#-no-futuro)
-   - [📞 Contato](#-%F0%9F%91%87-dúvida,-crítica,-elogio-ou-sugestão-%F0%9F%91%87)
-   - [📝 Licença](#-LICENSE)
+   - [👨🏽‍💻 Desenvolvimento](#Sobre-o-desenvolvimento)
+   - [📱 Screenshots](#Screenshots)
+   - [🤔 No Futuro](#No-Futuro)
+   - [📞 Contato](#%F0%9F%91%87-Dúvida,-Crítica,-Elogio-Ou-Sugestão%F0%9F%91%87)
+   - [📝 Licença](#LICENSE)
 
    </p>
 
@@ -42,7 +42,7 @@ Foi um pouco difícil, como já tenho um pouco de conhecimento sobre os widgets 
 </br>
 
 <p align="center">
-<h3 align="center">👇 Dúvida, Crítica, Elogio ou Sugestão👇 </h3> 
+<h3 align="center">👇 Dúvida, Crítica, Elogio ou Sugestão👇</h3> 
   </p>
   <p align="center">
   <a href="https://instagram.com/duhalonsoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
