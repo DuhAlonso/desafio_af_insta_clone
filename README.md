@@ -12,7 +12,7 @@ App feito conforme Desafio feito pelo Rodrigo Rahman na Academia do Flutter
    - [👨🏽‍💻 Desenvolvimento](#Sobre-o-desenvolvimento)
    - [📱 Screenshots](#Screenshots)
    - [🤔 No Futuro](#No-Futuro)
-   - [📞 Contato](#%F0%9F%91%87-Dúvida,-Crítica,-Elogio-Ou-Sugestão%F0%9F%91%87)
+   - [📞 Contato](#👇-Dúvida,-Crítica,-Elogio-ou-Sugestão👇)
    - [📝 Licença](#LICENSE)
 
    </p>
